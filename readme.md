@@ -1,7 +1,7 @@
 # Chess
 # Project submmited by 
 # Shrey Satapara  6th_CE_E1  1721BECE30133	
-# Rujuta Raval    6th_CE_E1  218SBECE30137
+# Rujuta Raval    6th_CE_E1  218SBECE30037
 
 A ai-based chess game implemented with python
 
